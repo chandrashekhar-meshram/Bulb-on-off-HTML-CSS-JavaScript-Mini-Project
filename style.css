@@ -46,6 +46,7 @@ figcaption {
     right: 0;
     bottom: 0;
     background-color: brown;
+    color: white;
     -webkit-transition: .4s;
     transition: .4s;
 }
